@@ -1,8 +1,8 @@
-### About the Studio
+# About the Studio
 
 ## Music Instructor: Debra Lacoste
 
-# Qualifications
+### Qualifications
 - Bachelor of Music (B.Mus., Wilfrid Laurier University)
   - Honours Music History
   - with High Distinction 
@@ -14,3 +14,11 @@
   - Systematic Musicology, with a focus on medieval, liturgical chant
 - Associate Diploma (A.R.C.T., The Royal Conservatory of Music, Toronto)
   - Trumpet Performance
+
+### Instruction for these Instruments and Skills
+- Trumpet
+- Piano
+- Introductory Violin
+- Music Theory
+- Music History
+ 
