@@ -14,4 +14,5 @@ Offering private music lessons for:
 Questions?
 
 [Email](mailto: {{site.email}})
-[Website {{site.github}} ]( {{site.github}})
+
+[Website: {{site.github}} ]( {{site.github}})
