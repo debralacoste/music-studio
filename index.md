@@ -9,6 +9,6 @@ Offering private music lessons for:
 - and, music theory and history.
 
 
-[About the Studio] (about)
+[About the Studio](about)
 
 [Questions?](mailto: {{site.email}})
