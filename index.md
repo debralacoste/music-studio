@@ -9,6 +9,6 @@ Offering private music lessons for
 - and, music theory and history.
 
 
-[About the Studio] (https://github.com/debralacoste/music-studio/about.md)
+[About the Studio] (about)
 
 
