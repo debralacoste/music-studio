@@ -15,4 +15,4 @@ Questions?
 
 [Email](mailto:{{site.email}})
 
-[Website:]({{site.github}})
+[Website]({{site.github}})
