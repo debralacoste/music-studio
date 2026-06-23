@@ -11,4 +11,7 @@ Offering private music lessons for:
 
 [About the Studio](about)
 
-[Questions?](mailto: {{site.email}})
+Questions?
+
+[Email](mailto: {{site.email}})
+[Website {{site.github}} ]( {{site.github}})
