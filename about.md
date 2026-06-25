@@ -1,8 +1,8 @@
 ---
 layout: default
+title: About the Studio
 ---
-
-# About the Studio
+{% include banner.html %}
 
 ## Music Instructor: Debra Lacoste
 
