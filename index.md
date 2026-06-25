@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% include navigation.html %}
-
 # Music Studio Information
 
 ## Description
@@ -23,4 +21,3 @@ Questions?
 
 [Website]({{site.github}})
 
-{% include footer.html %}
