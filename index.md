@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 {% include navigation.html %}
 
 # Music Studio Information
