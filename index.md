@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% include banner.html %}
+
 # Music Studio Information
 
 ## Description
