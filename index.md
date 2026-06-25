@@ -18,3 +18,5 @@ Questions?
 [Email](mailto:{{site.email}})
 
 [Website]({{site.github}})
+
+{% include footer.html %}
