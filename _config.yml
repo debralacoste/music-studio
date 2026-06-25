@@ -1,3 +1,4 @@
 description: "This private teaching studio offers lessons for trumpet, piano, violin, and music theory for all ages, child to adult."
 email: "dlacostemusic@gmail.com"
-github: "music-studio"
+url: "https://debralacoste.github.io"
+baseurl: "/music-studio"
