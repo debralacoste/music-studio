@@ -24,3 +24,4 @@
 - Music Theory
 - Music History
  
+{% include footer.html %}
