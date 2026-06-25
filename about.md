@@ -26,4 +26,3 @@ layout: default
 - Music Theory
 - Music History
  
-{% include footer.html %}
